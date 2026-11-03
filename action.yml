@@ -3,7 +3,7 @@ description: Send a text message from a workflow with the TextKit SMS API. Outpu
 author: TextKit
 branding:
   icon: message-square
-  color: blue
+  color: yellow
 inputs:
   api-key:
     description: TextKit API key (ssms_sk_...). Store it as a secret, e.g. secrets.TEXTKIT_API_KEY.
